@@ -13,7 +13,7 @@
 	},
 	"version": "1.0.0",
 	"description": "This is the boilerplate code for the Managing Packages With npm Challenges.",
-	"keywords": [],
+	"keywords": [ "boilerplate", "npm", "Challenges"],
 	"author": "Likita Joel",
 	"license": "ISC",
 	"bugs": {
