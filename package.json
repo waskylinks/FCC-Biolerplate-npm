@@ -12,8 +12,8 @@
 		"url": "git+https://github.com/freeCodeCamp/boilerplate-npm.git"
 	},
 	"version": "1.0.0",
-	"description": "This is the boilerplate code for the Managing Packages With npm Challenges.",
-	"keywords": [ "boilerplate", "npm", "Challenges"],
+	"description": "This is the boilerplate code for the Managing Packages With npm Challenges. Instructions for working on these challenges start at https://www.freecodecamp.org/learn/back-end-development-and-apis/managing-packages-with-npm/npm-package-json",
+	"keywords": [ "freeCodeCamp", "boilerplate", "node", "express", "mongodb" ],
 	"author": "Likita Joel",
 	"license": "ISC",
 	"bugs": {
